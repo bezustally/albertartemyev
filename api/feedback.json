@@ -1,0 +1,36 @@
+{
+	"title": {
+		"en": "<div class='hello'>👋🏻</div><br>Dear Listener!<br><br>Thank you for showing interest in this website 🙏🏻",
+		"ru": "<div class='hello'>👋🏻</div><br>Дорогой слушатель!<br><br>Благодарим тебя за проявленный интерес к этому сайту 🙏🏻"
+	},
+	"link1": {
+		"title": {
+			"en": "VK",
+			"ru": "VK"
+		},
+		"class": "vk",
+		"url": "https://vk.com/albertartemyev"
+	},
+	"link2": {
+		"title": {
+			"en": "YandexMusic",
+			"ru": "ЯндексМузыка"
+		},
+		"class": "yandex",
+		"url": "https://music.yandex.ru/artist/4843112/albums"
+	},
+	"link3": {
+		"title": "Spotify",
+		"class": "spotify",
+		"url": "https://open.spotify.com/artist/1s6FvanEi5nnOmzHt94Xln"
+	},
+	"link4": {
+		"title": "Telegram",
+		"class": "telegram",
+		"url": "https://t.me/albertartemyev"
+	},
+	"donationLink": {
+		"en": "https://my.qiwi.com/Yvan-BNOz_9EDv2",
+		"ru": "https://my.qiwi.com/Yvan-BNOz_9EDv2"
+	}
+}

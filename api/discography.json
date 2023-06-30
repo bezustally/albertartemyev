@@ -1,0 +1,3187 @@
+[
+	{
+		"title": {
+			"en": "Looking At The Starry Sky",
+			"ru": "Глядя на Звёздное Небо"
+		},
+		"year": 1997,
+		"folderName": "looking_at_the_starry_sky",
+		"tracks": [
+			{
+				"filename": "silver_rain",
+				"title": {
+					"en": "Silver Rain",
+					"ru": "Серебряный Дождь"
+				}
+			},
+			{
+				"filename": "the_abyss",
+				"title": {
+					"en": "The Abyss",
+					"ru": "Бездна"
+				}
+			},
+			{
+				"filename": "the_lost_civilization",
+				"title": {
+					"en": "The Lost Civilization",
+					"ru": "Погибшая цивилизация"
+				}
+			},
+			{
+				"filename": "desert",
+				"title": {
+					"en": "Desert",
+					"ru": "Пустыня"
+				}
+			},
+			{
+				"filename": "sleep",
+				"title": {
+					"en": "Sleep",
+					"ru": "Сны"
+				}
+			},
+			{
+				"filename": "looking_at_the_starry_sky",
+				"title": {
+					"en": "Looking At The Starry Sky",
+					"ru": "Глядя на Звёздное небо"
+				}
+			},
+			{
+				"filename": "black_hole",
+				"title": {
+					"en": "Black Hole",
+					"ru": "Чёрная Дыра"
+				}
+			},
+			{
+				"filename": "time",
+				"title": {
+					"en": "Time",
+					"ru": "Время"
+				}
+			},
+			{
+				"filename": "planet_t_64",
+				"title": {
+					"en": "Planet Т-64",
+					"ru": "Планета Т-64"
+				}
+			},
+			{
+				"filename": "farewell",
+				"title": {
+					"en": "Farewell",
+					"ru": "Прощание"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Music Of Migratory Birds",
+			"ru": "Музыка Перелётных Птиц"
+		},
+		"year": 1998,
+		"folderName": "music_of_migratory_birds",
+		"tracks": [
+			{
+				"filename": "the_early_morning",
+				"title": {
+					"en": "The Early Morning",
+					"ru": "Раннее Утро"
+				}
+			},
+			{
+				"filename": "autumn",
+				"title": {
+					"en": "Autumn",
+					"ru": "Осень"
+				}
+			},
+			{
+				"filename": "river",
+				"title": {
+					"en": "River",
+					"ru": "Река"
+				}
+			},
+			{
+				"filename": "love_story",
+				"title": {
+					"en": "Love Story",
+					"ru": "История Любви"
+				}
+			},
+			{
+				"filename": "forest_flute",
+				"title": {
+					"en": "Forest Flute",
+					"ru": "Лесная Флейта"
+				}
+			},
+			{
+				"filename": "night",
+				"title": {
+					"en": "Night",
+					"ru": "Ночь"
+				}
+			},
+			{
+				"filename": "flight",
+				"title": {
+					"en": "Flight",
+					"ru": "Перелёт"
+				}
+			},
+			{
+				"filename": "over_sea",
+				"title": {
+					"en": "Over Sea",
+					"ru": "Над Морем"
+				}
+			},
+			{
+				"filename": "distant_islands",
+				"title": {
+					"en": "Distant Islands",
+					"ru": "Далёкие Острова"
+				}
+			},
+			{
+				"filename": "crazy_city",
+				"title": {
+					"en": "Crazy City",
+					"ru": "Сумасшедший Город"
+				}
+			},
+			{
+				"filename": "music_of_migratory_birds",
+				"title": {
+					"en": "Music of Migratory Birds",
+					"ru": "Музыка Перелётных Птиц"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Violin, Flute And Kettle",
+			"ru": "Скрипка, Флейта и Чайник"
+		},
+		"year": 1998,
+		"folderName": "violin_flute_and_kettle",
+		"tracks": [
+			{
+				"filename": "the_hat",
+				"title": {
+					"en": "The Hat",
+					"ru": "Шляпа"
+				}
+			},
+			{
+				"filename": "the_jolly_walk",
+				"title": {
+					"en": "The Jolly Walk",
+					"ru": "Весёлая Прогулка"
+				}
+			},
+			{
+				"filename": "the_pilot",
+				"title": {
+					"en": "The Pilot",
+					"ru": "Лётчик"
+				}
+			},
+			{
+				"filename": "the_memory",
+				"title": {
+					"en": "The Memory",
+					"ru": "Воспоминание"
+				}
+			},
+			{
+				"filename": "the_late_evening",
+				"title": {
+					"en": "The Late Evening",
+					"ru": "Поздний Вечер"
+				}
+			},
+			{
+				"filename": "the_rites",
+				"title": {
+					"en": "The Rites",
+					"ru": "Обряды"
+				}
+			},
+			{
+				"filename": "the_song_of_stars",
+				"title": {
+					"en": "The Song Of Stars",
+					"ru": "Песня Звёзд"
+				}
+			},
+			{
+				"filename": "lullaby_to_the_little_prince",
+				"title": {
+					"en": "Lullaby To The Little Prince",
+					"ru": "Колыбельная Маленького Принца"
+				}
+			},
+			{
+				"filename": "march_of_the_lamplighters",
+				"title": {
+					"en": "March Of The Lamplighters",
+					"ru": "Марш Фонарщиков"
+				}
+			},
+			{
+				"filename": "waltz_of_the_roses",
+				"title": {
+					"en": "Waltz Of The Roses",
+					"ru": "Вальс Роз"
+				}
+			},
+			{
+				"filename": "the_dancing_kettle",
+				"title": {
+					"en": "The Dancing Kettle",
+					"ru": "Танцующий Чайник"
+				}
+			},
+			{
+				"filename": "the_businessman",
+				"title": {
+					"en": "The Businessman",
+					"ru": "Деловой Человек"
+				}
+			},
+			{
+				"filename": "the_little_prince",
+				"title": {
+					"en": "The Little Prince",
+					"ru": "Маленький Принц"
+				}
+			},
+			{
+				"filename": "t_7.41",
+				"title": {
+					"en": "7.41? 😊",
+					"ru": "7-41? 😊"
+				}
+			},
+			{
+				"filename": "rainy_day",
+				"title": {
+					"en": "Rainy Day",
+					"ru": "Дождливый День"
+				}
+			},
+			{
+				"filename": "the_pluha_bambuha",
+				"title": {
+					"en": "The Pluha Bambuha",
+					"ru": "Плюха Бамбуха"
+				}
+			},
+			{
+				"filename": "nostalgia",
+				"title": {
+					"en": "Nostalgia",
+					"ru": "Ностальгия"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Legend",
+			"ru": "Легенда"
+		},
+		"year": 2003,
+		"folderName": "legend",
+		"tracks": [
+			{
+				"filename": "blue_sky",
+				"title": {
+					"en": "Blue Sky",
+					"ru": "Синее Небо"
+				}
+			},
+			{
+				"filename": "on_shore",
+				"title": {
+					"en": "On Shore",
+					"ru": "На Берегу"
+				}
+			},
+			{
+				"filename": "legend",
+				"title": {
+					"en": "Legend",
+					"ru": "Легенда"
+				}
+			},
+			{
+				"filename": "warm_wind",
+				"title": {
+					"en": "Warm Wind",
+					"ru": "Тёплый Ветер"
+				}
+			},
+			{
+				"filename": "snowdrop",
+				"title": {
+					"en": "Snowdrop",
+					"ru": "Подснежник"
+				}
+			},
+			{
+				"filename": "sacrificial_fire",
+				"title": {
+					"en": "Sacrificial Fire",
+					"ru": "Жертвенный Огонь"
+				}
+			},
+			{
+				"filename": "steppe",
+				"title": {
+					"en": "Steppe",
+					"ru": "Степь"
+				}
+			},
+			{
+				"filename": "about_earth",
+				"title": {
+					"en": "About Earth",
+					"ru": "О Земле"
+				}
+			},
+			{
+				"filename": "rock_paintings",
+				"title": {
+					"en": "Rock Paintings",
+					"ru": "Наскальные Рисунки"
+				}
+			},
+			{
+				"filename": "underwater_world",
+				"title": {
+					"en": "Underwater World",
+					"ru": "Подводный Мир"
+				}
+			},
+			{
+				"filename": "echo",
+				"title": {
+					"en": "Echo",
+					"ru": "Эхо"
+				}
+			},
+			{
+				"filename": "tornado",
+				"title": {
+					"en": "Tornado",
+					"ru": "Торнадо"
+				}
+			},
+			{
+				"filename": "dawn_in_the_mountains",
+				"title": {
+					"en": "Dawn In The Mountains",
+					"ru": "Рассвет в Горах"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "At The Dawn",
+			"ru": "На Заре"
+		},
+		"year": 2003,
+		"vocal": true,
+		"folderName": "at_the_dawn",
+		"tracks": [
+			{
+				"filename": "a_wolf",
+				"title": {
+					"en": "A Wolf",
+					"ru": "Волк"
+				}
+			},
+			{
+				"filename": "the_three_stars",
+				"title": {
+					"en": "The Three Stars",
+					"ru": "Три Звезды"
+				}
+			},
+			{
+				"filename": "the_white_sail",
+				"title": {
+					"en": "The White Sail",
+					"ru": "Белый Парус"
+				}
+			},
+			{
+				"filename": "the_road",
+				"title": {
+					"en": "The Road",
+					"ru": "Дорога"
+				}
+			},
+			{
+				"filename": "at_the_dawn",
+				"title": {
+					"en": "At The Dawn",
+					"ru": "На Заре"
+				}
+			},
+			{
+				"filename": "a_song_about_a_friend",
+				"title": {
+					"en": "A Song About A Friend",
+					"ru": "Песня о Друге"
+				}
+			},
+			{
+				"filename": "i_wont_return",
+				"title": {
+					"en": "I Won't Return",
+					"ru": "Не Вернусь"
+				}
+			},
+			{
+				"filename": "the_dedication",
+				"title": {
+					"en": "The Dedication",
+					"ru": "Посвящение"
+				}
+			},
+			{
+				"filename": "nocturnal_delirium",
+				"title": {
+					"en": "Nocturnal Delirium",
+					"ru": "Ночной Бред"
+				}
+			},
+			{
+				"filename": "the_storm_will_subside",
+				"title": {
+					"en": "The Storm Will Subside",
+					"ru": "Стихнет Буря.."
+				}
+			},
+			{
+				"filename": "i_will_wait",
+				"title": {
+					"en": "I Will Wait",
+					"ru": "Подожду..."
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Fall",
+			"ru": "Падение"
+		},
+		"year": 2004,
+		"vocal": true,
+		"folderName": "the_fall",
+		"tracks": [
+			{
+				"filename": "the_fall",
+				"title": {
+					"en": "The Fall",
+					"ru": "Падение"
+				}
+			},
+			{
+				"filename": "make_money",
+				"title": {
+					"en": "Make Money",
+					"ru": "Делай Деньги"
+				}
+			},
+			{
+				"filename": "anthropology",
+				"title": {
+					"en": "Anthropology",
+					"ru": "Антропология"
+				}
+			},
+			{
+				"filename": "sire",
+				"title": {
+					"en": "Sire",
+					"ru": "Бык Производитель"
+				}
+			},
+			{
+				"filename": "this_world_has_gone_insane",
+				"title": {
+					"en": "This World Has Gone Insane",
+					"ru": "Этот Мир Сошёл с Ума"
+				}
+			},
+			{
+				"filename": "the_return",
+				"title": {
+					"en": "The Return",
+					"ru": "Возвращение"
+				}
+			},
+			{
+				"filename": "sadness",
+				"title": {
+					"en": "Sadness",
+					"ru": "Грусть"
+				}
+			},
+			{
+				"filename": "you",
+				"title": {
+					"en": "You",
+					"ru": "Ты"
+				}
+			},
+			{
+				"filename": "the_epitaph",
+				"title": {
+					"en": "The Epitaph",
+					"ru": "Эпитафия"
+				}
+			},
+			{
+				"filename": "the_time",
+				"title": {
+					"en": "The Time",
+					"ru": "Время"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "There",
+			"ru": "Там"
+		},
+		"year": 2005,
+		"vocal": true,
+		"folderName": "there",
+		"tracks": [
+			{
+				"filename": "too_late",
+				"title": {
+					"en": "Too Late",
+					"ru": "Поздно"
+				}
+			},
+			{
+				"filename": "my_star",
+				"title": {
+					"en": "My Star",
+					"ru": "Моя Звезда"
+				}
+			},
+			{
+				"filename": "a_sunlight_spot",
+				"title": {
+					"en": "A Sunlight Spot",
+					"ru": "Солнечный Зайчик"
+				}
+			},
+			{
+				"filename": "you_and_me",
+				"title": {
+					"en": "You And Me",
+					"ru": "Ты и Я"
+				}
+			},
+			{
+				"filename": "fresh_breeze",
+				"title": {
+					"en": "Fresh Breeze",
+					"ru": "Свежий Ветер"
+				}
+			},
+			{
+				"filename": "there",
+				"title": {
+					"en": "There",
+					"ru": "Там"
+				}
+			},
+			{
+				"filename": "organ_grinder",
+				"title": {
+					"en": "Organ Grinder",
+					"ru": "Шарманщик"
+				}
+			},
+			{
+				"filename": "when_i_get_famous",
+				"title": {
+					"en": "When I Get Famous",
+					"ru": "Когда Я Стану Знаменитым"
+				}
+			},
+			{
+				"filename": "a_small_ship",
+				"title": {
+					"en": "A Small Ship",
+					"ru": "Маленький Кораблик"
+				}
+			},
+			{
+				"filename": "this_is_me",
+				"title": {
+					"en": "This Is Me",
+					"ru": "Автопортрет"
+				}
+			},
+			{
+				"filename": "for_you",
+				"title": {
+					"en": "For You",
+					"ru": "Вам"
+				}
+			},
+			{
+				"filename": "like_yellow_wings",
+				"title": {
+					"en": "Like Yellow Wings..",
+					"ru": "Как Жёлтые Крылья..."
+				}
+			},
+			{
+				"filename": "one_day",
+				"title": {
+					"en": "One Day",
+					"ru": "Однажды"
+				}
+			},
+			{
+				"filename": "the_road",
+				"title": {
+					"en": "The Road",
+					"ru": "Дорога"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Happy Medium",
+			"ru": "Золотая Середина"
+		},
+		"vocal": true,
+		"year": 2005,
+		"folderName": "the_happy_medium",
+		"tracks": [
+			{
+				"filename": "be_quiet",
+				"title": {
+					"en": "Be Quiet",
+					"ru": "Будь Спокоен"
+				}
+			},
+			{
+				"filename": "the_happy_medium",
+				"title": {
+					"en": "The Happy Medium",
+					"ru": "Золотая Середина"
+				}
+			},
+			{
+				"filename": "black_panther",
+				"title": {
+					"en": "Black Panther",
+					"ru": "Чёрная Пантера"
+				}
+			},
+			{
+				"filename": "in_exile",
+				"title": {
+					"en": "In Exile",
+					"ru": "В Изгнаньи"
+				}
+			},
+			{
+				"filename": "the_musician",
+				"title": {
+					"en": "The Musician",
+					"ru": "Музыкант"
+				}
+			},
+			{
+				"filename": "man_from_the_past",
+				"title": {
+					"en": "Man From The Past",
+					"ru": "Человек из Прошлого"
+				}
+			},
+			{
+				"filename": "train_named_time",
+				"title": {
+					"en": "Train Named Time",
+					"ru": "Поезд по Имени Время"
+				}
+			},
+			{
+				"filename": "forgive_me_friend",
+				"title": {
+					"en": "Forgive Me Friend",
+					"ru": "Прости Мой Друг"
+				}
+			},
+			{
+				"filename": "we_will_reach",
+				"title": {
+					"en": "We Will Reach",
+					"ru": "Долетим"
+				}
+			},
+			{
+				"filename": "the_last_train",
+				"title": {
+					"en": "The Last Train",
+					"ru": "Последний Поезд"
+				}
+			},
+			{
+				"filename": "you_just_live",
+				"title": {
+					"en": "You Just Live",
+					"ru": "Ты Просто Живи"
+				}
+			},
+			{
+				"filename": "not_on_the_way",
+				"title": {
+					"en": "Not On The Way",
+					"ru": "Не По Пути..."
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Vertigo",
+			"ru": "Головокружение"
+		},
+		"year": 2007,
+		"folderName": "vertigo",
+		"tracks": [
+			{
+				"filename": "vertigo",
+				"title": {
+					"en": "Vertigo",
+					"ru": "Головокружение"
+				}
+			},
+			{
+				"filename": "on_the_way_to_the_mountains",
+				"title": {
+					"en": "On The Way To The Mountains",
+					"ru": "По Дороге в Горы"
+				}
+			},
+			{
+				"filename": "in_orbit",
+				"title": {
+					"en": "In Orbit",
+					"ru": "На Орбите"
+				}
+			},
+			{
+				"filename": "nebula",
+				"title": {
+					"en": "Nebula",
+					"ru": "Туманность"
+				}
+			},
+			{
+				"filename": "pulsar",
+				"title": {
+					"en": "Pulsar",
+					"ru": "Пульсар"
+				}
+			},
+			{
+				"filename": "lunar_jazz",
+				"title": {
+					"en": "Lunar Jazz",
+					"ru": "Лунный Джаз"
+				}
+			},
+			{
+				"filename": "deserted_shore",
+				"title": {
+					"en": "Deserted Shore",
+					"ru": "Пустынный Берег"
+				}
+			},
+			{
+				"filename": "meteor_rain",
+				"title": {
+					"en": "Meteor Rain",
+					"ru": "Метеоритный Дождь"
+				}
+			},
+			{
+				"filename": "flight",
+				"title": {
+					"en": "Flight",
+					"ru": "Полёт"
+				}
+			},
+			{
+				"filename": "night_by_the_campfire",
+				"title": {
+					"en": "Night By The Campfire",
+					"ru": "Ночь у Костра"
+				}
+			},
+			{
+				"filename": "dancing_in_the_rain",
+				"title": {
+					"en": "Dancing In The Rain",
+					"ru": "Танцующие Под Дождём"
+				}
+			},
+			{
+				"filename": "serenity",
+				"title": {
+					"en": "Serenity",
+					"ru": "Безмятежность"
+				}
+			},
+			{
+				"filename": "memory",
+				"title": {
+					"en": "memory",
+					"ru": "Воспоминание"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "We Will Meet",
+			"ru": "Мы встретимся"
+		},
+		"year": 2008,
+		"vocal": true,
+		"folderName": "we_will_meet",
+		"tracks": [
+			{
+				"filename": "war",
+				"title": {
+					"en": "War",
+					"ru": "Война"
+				}
+			},
+			{
+				"filename": "the_first_step",
+				"title": {
+					"en": "The First Step",
+					"ru": "Первый Шаг"
+				}
+			},
+			{
+				"filename": "a_wolf_(acoustic)",
+				"title": {
+					"en": "A Wolf (Acoustic)",
+					"ru": "Волк (Акустика)"
+				}
+			},
+			{
+				"filename": "the_city",
+				"title": {
+					"en": "The City",
+					"ru": "Город"
+				}
+			},
+			{
+				"filename": "forgotten_man",
+				"title": {
+					"en": "Forgotten Man",
+					"ru": "Неудачник"
+				}
+			},
+			{
+				"filename": "heroes",
+				"title": {
+					"en": "Heroes",
+					"ru": "Герои"
+				}
+			},
+			{
+				"filename": "snow",
+				"title": {
+					"en": "Snow",
+					"ru": "Снег..."
+				}
+			},
+			{
+				"filename": "to_friends",
+				"title": {
+					"en": "To: Friends",
+					"ru": "Друзьям"
+				}
+			},
+			{
+				"filename": "going_until_the_end",
+				"title": {
+					"en": "Going Until The End",
+					"ru": "Идти до Конца"
+				}
+			},
+			{
+				"filename": "painfully",
+				"title": {
+					"en": "Painfully",
+					"ru": "Больно"
+				}
+			},
+			{
+				"filename": "its_just_such_a_fate",
+				"title": {
+					"en": "It's Just Such A Fate",
+					"ru": "Просто Такая Судьба"
+				}
+			},
+			{
+				"filename": "the_stars_are_smiling",
+				"title": {
+					"en": "The Stars Are Smiling",
+					"ru": "Улыбаются Звёзды"
+				}
+			},
+			{
+				"filename": "come_back",
+				"title": {
+					"en": "Come Back",
+					"ru": "Возвращайся..."
+				}
+			},
+			{
+				"filename": "just_like_everyone_else",
+				"title": {
+					"en": "Just Like Everyone Else",
+					"ru": "Так же Как Все"
+				}
+			},
+			{
+				"filename": "we_will_meet",
+				"title": {
+					"en": "We Will Meet",
+					"ru": "Мы Встретимся"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Open Space",
+			"ru": "Открытый Космос"
+		},
+		"year": 2009,
+		"folderName": "open_space",
+		"tracks": [
+			{
+				"filename": "moonlight",
+				"title": {
+					"en": "Moonlight",
+					"ru": "Лунный свет"
+				}
+			},
+			{
+				"filename": "open_space",
+				"title": {
+					"en": "Open Space",
+					"ru": "Открытый космос"
+				}
+			},
+			{
+				"filename": "mysterious_voices",
+				"title": {
+					"en": "Mysterious Voices",
+					"ru": "Таинственные голоса"
+				}
+			},
+			{
+				"filename": "weightlessness",
+				"title": {
+					"en": "Weightlessness",
+					"ru": "Невесомость"
+				}
+			},
+			{
+				"filename": "protuberance",
+				"title": {
+					"en": "Protuberance",
+					"ru": "Протуберанец"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Arctic",
+			"ru": "Арктика"
+		},
+		"year": 2010,
+		"folderName": "arctic",
+		"tracks": [
+			{
+				"filename": "arctic",
+				"title": {
+					"en": "Arctic",
+					"ru": "Арктика"
+				}
+			},
+			{
+				"filename": "the_lost_expedition",
+				"title": {
+					"en": "The Lost Expedition",
+					"ru": "Пропавшая Экспедиция"
+				}
+			},
+			{
+				"filename": "white_silence",
+				"title": {
+					"en": "White Silence",
+					"ru": "Белое Безмолвие"
+				}
+			},
+			{
+				"filename": "the_approach_of_spring",
+				"title": {
+					"en": "The Approach Of Spring",
+					"ru": "Приближение Весны"
+				}
+			},
+			{
+				"filename": "call_of_the_sea",
+				"title": {
+					"en": "Сall Of The Sea",
+					"ru": "Зов Моря"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Unconquered Space",
+			"ru": "Непокорённый Космос"
+		},
+		"year": 2010,
+		"folderName": "unconquered_space",
+		"tracks": [
+			{
+				"filename": "star_is_born",
+				"title": {
+					"en": "Star Is Born",
+					"ru": "Рождение Звезды"
+				}
+			},
+			{
+				"filename": "cosmic_wind",
+				"title": {
+					"en": "Cosmic Wind",
+					"ru": "Космический Ветер"
+				}
+			},
+			{
+				"filename": "infinify",
+				"title": {
+					"en": "Infinify",
+					"ru": "Бесконечность"
+				}
+			},
+			{
+				"filename": "mysterious_planet",
+				"title": {
+					"en": "Mysterious Planet",
+					"ru": "Загадочная Планета"
+				}
+			},
+			{
+				"filename": "space_suite",
+				"title": {
+					"en": "Space Suite",
+					"ru": "Космическая Cюита"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Sahara",
+			"ru": "Сахара"
+		},
+		"year": 2010,
+		"folderName": "sahara",
+		"tracks": [
+			{
+				"filename": "sahara",
+				"title": {
+					"en": "Sahara",
+					"ru": "Сахара"
+				}
+			},
+			{
+				"filename": "nightfall",
+				"title": {
+					"en": "Nightfall",
+					"ru": "Наступление ночи"
+				}
+			},
+			{
+				"filename": "sandstorm",
+				"title": {
+					"en": "Sandstorm",
+					"ru": "Песчаная буря"
+				}
+			},
+			{
+				"filename": "sunrise",
+				"title": {
+					"en": "Sunrise",
+					"ru": "Восход Солнца"
+				}
+			},
+			{
+				"filename": "homecoming",
+				"title": {
+					"en": "Homecoming",
+					"ru": "Возвращение домой"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Sky At Sunset",
+			"ru": "Небо на Закате"
+		},
+		"year": 2011,
+		"folderName": "sky_at_sunset",
+		"tracks": [
+			{
+				"filename": "sky_at_sunset",
+				"title": {
+					"en": "Sky At Sunset",
+					"ru": "Небо на Закате"
+				}
+			},
+			{
+				"filename": "sky_on_a_moonlit_night",
+				"title": {
+					"en": "Sky On A Moonlit Night",
+					"ru": "Небо в Лунную Ночь"
+				}
+			},
+			{
+				"filename": "sky_before_a_thunderstorm",
+				"title": {
+					"en": "Sky Before A Thunderstorm",
+					"ru": "Небо перед Грозой"
+				}
+			},
+			{
+				"filename": "sky_after_the_rain",
+				"title": {
+					"en": "Sky After The Rain",
+					"ru": "Небо после Дождя"
+				}
+			},
+			{
+				"filename": "sky_before_the_dawn",
+				"title": {
+					"en": "Sky Before The Dawn",
+					"ru": "Небо перед Рассветом"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Dolphins In The Ocean",
+			"ru": "Дельфины в Океане"
+		},
+		"year": 2011,
+		"folderName": "dolphins_in_the_ocean",
+		"tracks": [
+			{
+				"filename": "dolphins_in_the_ocean",
+				"title": {
+					"en": "Dolphins In The Ocean",
+					"ru": "Дельфины в Океане"
+				}
+			},
+			{
+				"filename": "the_warm_current",
+				"title": {
+					"en": "The Warm Current",
+					"ru": "Тёплое Течение"
+				}
+			},
+			{
+				"filename": "the_premonition_of_the_storm",
+				"title": {
+					"en": "The Premonition Of The Storm",
+					"ru": "Предчувствие Шторма"
+				}
+			},
+			{
+				"filename": "the_moon_path",
+				"title": {
+					"en": "The Moon Path",
+					"ru": "Лунная Дорожка"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Storm Warning",
+			"ru": "Штормовое Предупреждение"
+		},
+		"year": 2011,
+		"folderName": "storm_warning",
+		"tracks": [
+			{
+				"filename": "cold_north_wind",
+				"title": {
+					"en": "Cold North Wind",
+					"ru": "Холодный, Северный Ветер"
+				}
+			},
+			{
+				"filename": "point_break",
+				"title": {
+					"en": "Point Break",
+					"ru": "На Гребне Волны"
+				}
+			},
+			{
+				"filename": "storm_warning",
+				"title": {
+					"en": "Storm Warning",
+					"ru": "Штормовое Предупреждение"
+				}
+			},
+			{
+				"filename": "distant_lighthouse_light",
+				"title": {
+					"en": "Distant Lighthouse Light",
+					"ru": "Далёкий Свет Маяка"
+				}
+			},
+			{
+				"filename": "afterglow",
+				"title": {
+					"en": "Afterglow",
+					"ru": "На Закате"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Roraima Plateau",
+			"ru": "Плато Рорайма"
+		},
+		"year": 2011,
+		"folderName": "roraima_plateau",
+		"tracks": [
+			{
+				"filename": "roraima_plateau",
+				"title": {
+					"en": "Roraima Plateau",
+					"ru": "Плато Рорайма"
+				}
+			},
+			{
+				"filename": "ascent_through_the_gorge",
+				"title": {
+					"en": "Ascent Through The Gorge",
+					"ru": "Подъём через Ущелье"
+				}
+			},
+			{
+				"filename": "storm_clouds",
+				"title": {
+					"en": "Storm Clouds",
+					"ru": "Грозовые Облака"
+				}
+			},
+			{
+				"filename": "waterfalls",
+				"title": {
+					"en": "Waterfalls",
+					"ru": "Водопады"
+				}
+			},
+			{
+				"filename": "looking_into_an_abyss",
+				"title": {
+					"en": "Looking Into An Abyss",
+					"ru": "Глядя в Пропасть"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Desert Voice",
+			"ru": "Голос Пустыни"
+		},
+		"year": 2011,
+		"folderName": "desert_voice",
+		"tracks": [
+			{
+				"filename": "desert_voice",
+				"title": {
+					"en": "Desert Voice",
+					"ru": "Голос пустыни"
+				}
+			},
+			{
+				"filename": "сaravan",
+				"title": {
+					"en": "Caravan",
+					"ru": "Караван"
+				}
+			},
+			{
+				"filename": "mirages",
+				"title": {
+					"en": "Mirages",
+					"ru": "Миражи"
+				}
+			},
+			{
+				"filename": "footprints_in_the_sand",
+				"title": {
+					"en": "Footprints In The Sand",
+					"ru": "Следы на Песке"
+				}
+			},
+			{
+				"filename": "alarming_night",
+				"title": {
+					"en": "Alarming Night",
+					"ru": "Тревожная Ночь"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Desert Storm",
+			"ru": "Буря в Пустыне"
+		},
+		"year": 2012,
+		"folderName": "desert_storm",
+		"tracks": [
+			{
+				"filename": "desert_storm",
+				"title": {
+					"en": "Desert Storm",
+					"ru": "Буря в Пустыне"
+				}
+			},
+			{
+				"filename": "the_scorching_heat",
+				"title": {
+					"en": "The Scorching Heat",
+					"ru": "Палящий Зной"
+				}
+			},
+			{
+				"filename": "sandy_demon",
+				"title": {
+					"en": "Sandy Demon",
+					"ru": "Песчаный Демон"
+				}
+			},
+			{
+				"filename": "hot_sand",
+				"title": {
+					"en": "Hot Sand",
+					"ru": "Горячий Песок"
+				}
+			},
+			{
+				"filename": "forgotten_oasis",
+				"title": {
+					"en": "Forgotten Oasis",
+					"ru": "Забытый Оазис"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Night Paris",
+			"ru": "Ночной Париж"
+		},
+		"year": 2012,
+		"folderName": "night_paris",
+		"tracks": [
+			{
+				"filename": "night_paris",
+				"title": {
+					"en": "Night Paris",
+					"ru": "Ночной Париж"
+				}
+			},
+			{
+				"filename": "in_memory_of_joan_of_arc",
+				"title": {
+					"en": "In Memory Of Joan Of Arc",
+					"ru": "Памяти Жанны д'Арк"
+				}
+			},
+			{
+				"filename": "warm_rain_on_the_champs_elysees",
+				"title": {
+					"en": "Warm Rain On The Champs Elysees",
+					"ru": "Тёплый Дождь на Елисейских Полях"
+				}
+			},
+			{
+				"filename": "the_sky_over_notre_dame",
+				"title": {
+					"en": "The Sky Over Notre-Dame",
+					"ru": "Небо над Нотр-Дамом"
+				}
+			},
+			{
+				"filename": "an_evening_walk",
+				"title": {
+					"en": "An Evening Walk",
+					"ru": "Вечерняя Прогулка"
+				}
+			},
+			{
+				"filename": "farewell_to_paris",
+				"title": {
+					"en": "Farewell To Paris",
+					"ru": "Прощание с Парижем"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Illusive city",
+			"ru": "Призрачный Город"
+		},
+		"year": 2012,
+		"folderName": "illusive_city",
+		"tracks": [
+			{
+				"filename": "illusive_city_of_petra",
+				"title": {
+					"en": "Illusive City Of Petra",
+					"ru": "Призрачный Город Петра"
+				}
+			},
+			{
+				"filename": "the_illusive_city_in_clouds",
+				"title": {
+					"en": "The Illusive City In Clouds",
+					"ru": "Призрачный Город в Облаках"
+				}
+			},
+			{
+				"filename": "the_illusive_city_over_the_sea",
+				"title": {
+					"en": "The Illusive City Over The Sea",
+					"ru": "Призрачный Город над Морем"
+				}
+			},
+			{
+				"filename": "illusive_city_of_arkaim",
+				"title": {
+					"en": "Illusive City Of Arkaim",
+					"ru": "Призрачный Город Аркаим"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "On The Edge Of The Universe",
+			"ru": "На Краю Вселенной"
+		},
+		"year": 2012,
+		"folderName": "on_the_edge_of_the_universe",
+		"tracks": [
+			{
+				"filename": "meteor_captured",
+				"title": {
+					"en": "Meteor Captured",
+					"ru": "Метеоритный Плен"
+				}
+			},
+			{
+				"filename": "looking_into_infinity",
+				"title": {
+					"en": "Looking Into Infinity",
+					"ru": "Глядя в Бесконечность"
+				}
+			},
+			{
+				"filename": "listening_to_open_space",
+				"title": {
+					"en": "Listening To Open Space",
+					"ru": "Слушая Открытый Космос"
+				}
+			},
+			{
+				"filename": "on_the_edge_of_the_universe",
+				"title": {
+					"en": "On The Edge Of The Universe",
+					"ru": "На Краю Вселенной"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Look Beyond The Horizon",
+			"ru": "Заглянуть за Горизонт"
+		},
+		"year": 2012,
+		"folderName": "look_beyond_the_horizon",
+		"tracks": [
+			{
+				"filename": "look_beyond_the_horizon",
+				"title": {
+					"en": "Look Beyond The Horizon",
+					"ru": "Заглянуть за Горизонт"
+				}
+			},
+			{
+				"filename": "somewhere_out_there",
+				"title": {
+					"en": "Somewhere Out There",
+					"ru": "Где-то Там.."
+				}
+			},
+			{
+				"filename": "fog",
+				"title": {
+					"en": "Fog",
+					"ru": "Туман"
+				}
+			},
+			{
+				"filename": "northern_lights",
+				"title": {
+					"en": "The Northern Lights",
+					"ru": "Северное Сияние"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Zeta Ophiuchi",
+			"ru": "Зета Змееносца"
+		},
+		"year": 2012,
+		"folderName": "zeta_ophiuchi",
+		"tracks": [
+			{
+				"filename": "zeta_ophiuchi",
+				"title": {
+					"en": "Zeta Ophiuchi",
+					"ru": "Зета Змееносца"
+				}
+			},
+			{
+				"filename": "flying_through_space",
+				"title": {
+					"en": "Flying Through Space",
+					"ru": "Летящая Cквозь Пространство"
+				}
+			},
+			{
+				"filename": "at_rest",
+				"title": {
+					"en": "At Rest",
+					"ru": "В Состоянии Покоя"
+				}
+			},
+			{
+				"filename": "through_the_thorns",
+				"title": {
+					"en": "Through The Thorns",
+					"ru": "Сквозь Тернии"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Breath Of Mars",
+			"ru": "Дыхание Марса"
+		},
+		"year": 2012,
+		"folderName": "the_breath_of_mars",
+		"tracks": [
+			{
+				"filename": "the_breath_of_mars",
+				"title": {
+					"en": "The Breath Of Mars",
+					"ru": "Дыхание Марса"
+				}
+			},
+			{
+				"filename": "extinct_volcanoes",
+				"title": {
+					"en": "Extinct Volcanoes",
+					"ru": "Потухшие вулканы "
+				}
+			},
+			{
+				"filename": "dust_storm",
+				"title": {
+					"en": "Dust Storm",
+					"ru": "Пылевая Буря"
+				}
+			},
+			{
+				"filename": "lifeless_landscape",
+				"title": {
+					"en": "Lifeless Landscape",
+					"ru": "Безжизненный Пейзаж"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Between The Worlds",
+			"ru": "Между Мирами"
+		},
+		"year": 2012,
+		"folderName": "between_the_worlds",
+		"tracks": [
+			{
+				"filename": "between_the_worlds",
+				"title": {
+					"en": "Between The Worlds",
+					"ru": "Между Мирами"
+				}
+			},
+			{
+				"filename": "out_of_time",
+				"title": {
+					"en": "Out Of Time",
+					"ru": "Вне Времени"
+				}
+			},
+			{
+				"filename": "dream_vision",
+				"title": {
+					"en": "Dream Vision",
+					"ru": "Видения"
+				}
+			},
+			{
+				"filename": "deep_hypnosis",
+				"title": {
+					"en": "Deep Hypnosis",
+					"ru": "Глубокий Гипноз"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Kepler 22b",
+			"ru": "Кеплер 22б"
+		},
+		"year": 2013,
+		"folderName": "kepler_22b",
+		"tracks": [
+			{
+				"filename": "kepler_22b",
+				"title": {
+					"en": "Kepler-22b",
+					"ru": "Kepler 22 b"
+				}
+			},
+			{
+				"filename": "looking_through_a_porthole",
+				"title": {
+					"en": "Looking Through A Porthole",
+					"ru": "Глядя в Иллюминатор"
+				}
+			},
+			{
+				"filename": "the_unexplored",
+				"title": {
+					"en": "The Unexplored",
+					"ru": "Неизведанное"
+				}
+			},
+			{
+				"filename": "the_approaching_of_the_cyclone",
+				"title": {
+					"en": "The Approaching Of The Cyclone",
+					"ru": "Приближение Циклона"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Gravitation",
+			"ru": "Притяжение"
+		},
+		"year": 2013,
+		"folderName": "gravitation",
+		"tracks": [
+			{
+				"filename": "intro",
+				"title": {
+					"en": "Intro",
+					"ru": "Intro"
+				}
+			},
+			{
+				"filename": "gravitation",
+				"title": {
+					"en": "Gravitation",
+					"ru": "Притяжение"
+				}
+			},
+			{
+				"filename": "the_outer_limits",
+				"title": {
+					"en": "The Outer Limits",
+					"ru": "За Гранью Возможного"
+				}
+			},
+			{
+				"filename": "at_the_limit",
+				"title": {
+					"en": "At The Limit",
+					"ru": "На Пределе"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Where The Light Is Born",
+			"ru": "Там, Где Рождается Свет"
+		},
+		"year": 2013,
+		"folderName": "where_the_light_is_born",
+		"tracks": [
+			{
+				"filename": "over_mountaintops",
+				"title": {
+					"en": "Over Mountaintops",
+					"ru": "За Вершинами Гор"
+				}
+			},
+			{
+				"filename": "where_the_light_is_born",
+				"title": {
+					"en": "Where The Light Is Born",
+					"ru": "Там, Где Рождается Свет"
+				}
+			},
+			{
+				"filename": "twilight",
+				"title": {
+					"en": "Twilight",
+					"ru": "Сумерки"
+				}
+			},
+			{
+				"filename": "large_fireball",
+				"title": {
+					"en": "Large Fireball",
+					"ru": "Большой, Огненный Шар"
+				}
+			},
+			{
+				"filename": "a_quiet_sky",
+				"title": {
+					"en": "A Quiet Sky",
+					"ru": "Тихое Небо"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Journey To Dream",
+			"ru": "Путешествие к Мечте"
+		},
+		"year": 2013,
+		"folderName": "journey_to_dream",
+		"tracks": [
+			{
+				"filename": "journey_to_the_dreams",
+				"title": {
+					"en": "Journey To The Dreams",
+					"ru": "Путешествие к Мечте"
+				}
+			},
+			{
+				"filename": "noise_of_the_sea",
+				"title": {
+					"en": "Noise Of The Sea",
+					"ru": "Шум Моря"
+				}
+			},
+			{
+				"filename": "morning_fog",
+				"title": {
+					"en": "Morning Fog",
+					"ru": "Утренний Туман"
+				}
+			},
+			{
+				"filename": "waiting",
+				"title": {
+					"en": "Waiting",
+					"ru": "Ожидание"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Orion Nebula",
+			"ru": "Туманность Ориона"
+		},
+		"year": 2013,
+		"folderName": "orion_nebula",
+		"tracks": [
+			{
+				"filename": "orion_nebula",
+				"title": {
+					"en": "Orion Nebula",
+					"ru": "Туманность Ориона"
+				}
+			},
+			{
+				"filename": "1500_light_years",
+				"title": {
+					"en": "1500 Light Years",
+					"ru": "1500 Световых Лет"
+				}
+			},
+			{
+				"filename": "glow_м_42",
+				"title": {
+					"en": "Glow М 42",
+					"ru": "Свечение М42"
+				}
+			},
+			{
+				"filename": "cold_sky",
+				"title": {
+					"en": "Cold Sky",
+					"ru": "Холодное Небо"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Return To Mars",
+			"ru": "Возвращение на Марс"
+		},
+		"year": 2013,
+		"folderName": "return_to_mars",
+		"tracks": [
+			{
+				"filename": "valles_marineris",
+				"title": {
+					"en": "Valles Marineris",
+					"ru": "Долина Маринера"
+				}
+			},
+			{
+				"filename": "underground_cities",
+				"title": {
+					"en": "Underground Cities",
+					"ru": "Подземные Города"
+				}
+			},
+			{
+				"filename": "the_martian_clouds",
+				"title": {
+					"en": "The Martian Clouds",
+					"ru": "Марсианские Облака"
+				}
+			},
+			{
+				"filename": "return_to_mars",
+				"title": {
+					"en": "Return To Mars",
+					"ru": "Возвращение на Марс"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Andromeda",
+			"ru": "Андромеда"
+		},
+		"year": 2013,
+		"folderName": "andromeda",
+		"tracks": [
+			{
+				"filename": "andromeda",
+				"title": {
+					"en": "Andromeda",
+					"ru": "Андромеда"
+				}
+			},
+			{
+				"filename": "supergiant_spiral",
+				"title": {
+					"en": "Supergiant Spiral",
+					"ru": "Сверхгигантская Cпираль"
+				}
+			},
+			{
+				"filename": "radiation",
+				"title": {
+					"en": "Radiation",
+					"ru": "Излучение"
+				}
+			},
+			{
+				"filename": "blue_star",
+				"title": {
+					"en": "Blue Star",
+					"ru": "Голубая Звезда"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Sirius",
+			"ru": "Сириус"
+		},
+		"year": 2014,
+		"folderName": "sirius",
+		"tracks": [
+			{
+				"filename": "sirius_a",
+				"title": {
+					"en": "Sirius A",
+					"ru": "Сириус A"
+				}
+			},
+			{
+				"filename": "sirius_b",
+				"title": {
+					"en": "Sirius B",
+					"ru": "Сириус В"
+				}
+			},
+			{
+				"filename": "starry_concourse",
+				"title": {
+					"en": "Starry Concourse",
+					"ru": "Звёздное Скопление"
+				}
+			},
+			{
+				"filename": "blue_glow",
+				"title": {
+					"en": "Blue Glow",
+					"ru": "Голубое Сияние"
+				}
+			},
+			{
+				"filename": "legend_about_iside",
+				"title": {
+					"en": "Legend About Iside",
+					"ru": "Легенда об Исиде"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Music Of The Night",
+			"ru": "Музыка Ночи"
+		},
+		"year": 2014,
+		"folderName": "the_music_of_the_night",
+		"tracks": [
+			{
+				"filename": "early_morning_mist",
+				"title": {
+					"en": "Early Morning Mist",
+					"ru": "Предрассветный Туман"
+				}
+			},
+			{
+				"filename": "night_mirages",
+				"title": {
+					"en": "Night Mirages",
+					"ru": "Ночные Миражи"
+				}
+			},
+			{
+				"filename": "music_of_the_night",
+				"title": {
+					"en": "Music Of The Night",
+					"ru": "Музыка Ночи"
+				}
+			},
+			{
+				"filename": "of_dreaming",
+				"title": {
+					"en": "Of Dreaming",
+					"ru": "Сновидения"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Nazca",
+			"ru": "Наска"
+		},
+		"year": 2014,
+		"folderName": "nazca",
+		"tracks": [
+			{
+				"filename": "nazca",
+				"title": {
+					"en": "Nazca",
+					"ru": "Наска"
+				}
+			},
+			{
+				"filename": "flight_of_the_vimana",
+				"title": {
+					"en": "Flight Of The Vimana",
+					"ru": "Полёт Вимана"
+				}
+			},
+			{
+				"filename": "night_lights",
+				"title": {
+					"en": "Night Lights",
+					"ru": "Ночные Огни"
+				}
+			},
+			{
+				"filename": "outside_the_land",
+				"title": {
+					"en": "Outside The Land",
+					"ru": "За Пределами Земли"
+				}
+			},
+			{
+				"filename": "enigmatic_drawings",
+				"title": {
+					"en": "Enigmatic Drawings",
+					"ru": "Загадочные Рисунки"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Along The Milky Way",
+			"ru": "По Млечному Пути"
+		},
+		"year": 2014,
+		"folderName": "along_the_milky_way",
+		"tracks": [
+			{
+				"filename": "flight_to_the_center_of_the_nucleus",
+				"title": {
+					"en": "Flight To The Center Of The Nucleus",
+					"ru": "Полёт к Центру Ядра"
+				}
+			},
+			{
+				"filename": "along_the_milky_way",
+				"title": {
+					"en": "Along The Milky Way",
+					"ru": "По Млечному Пути"
+				}
+			},
+			{
+				"filename": "on_the_outskirts_of_the_galaxy",
+				"title": {
+					"en": "On The Outskirts Of The Galaxy",
+					"ru": "На Окраине Галактики"
+				}
+			},
+			{
+				"filename": "gas_ring",
+				"title": {
+					"en": "Gas Ring",
+					"ru": "Газовое Кольцо"
+				}
+			},
+			{
+				"filename": "radio_emission",
+				"title": {
+					"en": "Radio Emission",
+					"ru": "Радиоизлучение"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Above The Sky",
+			"ru": "Выше Неба"
+		},
+		"year": 2014,
+		"folderName": "above_the_sky",
+		"tracks": [
+			{
+				"filename": "above_the_sky",
+				"title": {
+					"en": "Above The Sky",
+					"ru": "Выше Неба"
+				}
+			},
+			{
+				"filename": "in_stratosphere",
+				"title": {
+					"en": "In Stratosphere",
+					"ru": "В Стратосфере"
+				}
+			},
+			{
+				"filename": "on_wing",
+				"title": {
+					"en": "On Wing",
+					"ru": "На Крыльях"
+				}
+			},
+			{
+				"filename": "distant_horizon",
+				"title": {
+					"en": "Distant Horizon",
+					"ru": "Далёкий Горизонт"
+				}
+			},
+			{
+				"filename": "through_cloud",
+				"title": {
+					"en": "Through Cloud",
+					"ru": "Сквозь Облака"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "In Rings Of The Saturn",
+			"ru": "В Кольцах Сатурна"
+		},
+		"year": 2015,
+		"folderName": "in_the_rings_of_saturn",
+		"tracks": [
+			{
+				"filename": "in_rings_of_the_saturn",
+				"title": {
+					"en": "In Rings Of The Saturn",
+					"ru": "В Кольцах Сатурна"
+				}
+			},
+			{
+				"filename": "enceladus",
+				"title": {
+					"en": "Enceladus",
+					"ru": "Энцелад"
+				}
+			},
+			{
+				"filename": "titan",
+				"title": {
+					"en": "Titan",
+					"ru": "Титан"
+				}
+			},
+			{
+				"filename": "gigantic_hexagon",
+				"title": {
+					"en": "Gigantic Hexagon",
+					"ru": "Гигантский Шестиугольник"
+				}
+			},
+			{
+				"filename": "icy_chill",
+				"title": {
+					"en": "Icy Chill",
+					"ru": "Ледяной Холод"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Planet-X",
+			"ru": "Планета-Икс"
+		},
+		"year": 2015,
+		"folderName": "planet_x",
+		"tracks": [
+			{
+				"filename": "planet_x",
+				"title": {
+					"en": "Planet-X",
+					"ru": "Планета-Икс"
+				}
+			},
+			{
+				"filename": "in_belt_koypera",
+				"title": {
+					"en": "In Belt Koypera",
+					"ru": "В Поясе Койпера"
+				}
+			},
+			{
+				"filename": "light_beside_horizon",
+				"title": {
+					"en": "Light Beside Horizon",
+					"ru": "Свет у Горизонта"
+				}
+			},
+			{
+				"filename": "cloud_oorta",
+				"title": {
+					"en": "Cloud Oorta",
+					"ru": "Облако Оорта"
+				}
+			},
+			{
+				"filename": "wind_of_the_planets",
+				"title": {
+					"en": "Wind Of The Planets",
+					"ru": "Планетарный Ветер"
+				}
+			},
+			{
+				"filename": "icy_world",
+				"title": {
+					"en": "Icy World",
+					"ru": "Ледяной Мир"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Light Of A Distant Star",
+			"ru": "Свет Далёкой Звезды"
+		},
+		"year": 2015,
+		"folderName": "light_of_a_distant_star",
+		"tracks": [
+			{
+				"filename": "light_of_a_distant_star",
+				"title": {
+					"en": "Light Of A Distant Star",
+					"ru": "Свет Далёкой Звезды"
+				}
+			},
+			{
+				"filename": "аmongst_thousands_of_the_stars",
+				"title": {
+					"en": "Аmongst Thousands Of The Stars",
+					"ru": "Среди Тысяч Звёзд"
+				}
+			},
+			{
+				"filename": "in_depth_of_the_constellation",
+				"title": {
+					"en": "In Depth Of The Constellation",
+					"ru": "В Глубину Созвездий"
+				}
+			},
+			{
+				"filename": "the_calling_voice",
+				"title": {
+					"en": "The Calling Voice",
+					"ru": "Зовущий Голос"
+				}
+			},
+			{
+				"filename": "darkenning_matter",
+				"title": {
+					"en": "Darkenning Matter",
+					"ru": "Тёмная Материя"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Voice Of Silver Strings",
+			"ru": "Голос Серебряных Струн"
+		},
+		"year": 2015,
+		"folderName": "the_voice_of_silver_strings",
+		"tracks": [
+			{
+				"filename": "the_voice_of_silver_strings",
+				"title": {
+					"en": "The Voice Of Silver Strings",
+					"ru": "Серебро Тонких Струн"
+				}
+			},
+			{
+				"filename": "fly_in_sleep",
+				"title": {
+					"en": "Fly In Sleep",
+					"ru": "Полёты во Сне"
+				}
+			},
+			{
+				"filename": "stone_fall",
+				"title": {
+					"en": "Stone Fall",
+					"ru": "Камнепад"
+				}
+			},
+			{
+				"filename": "to_stand_on_the_brink_of_a_precipice",
+				"title": {
+					"en": "To Stand On The Brink Of A Precipice",
+					"ru": "На Краю Обрыва"
+				}
+			},
+			{
+				"filename": "summer_rain",
+				"title": {
+					"en": "Summer Rain",
+					"ru": "Летний Дождь"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Light Touch",
+			"ru": "Лёгкое Прикосновение"
+		},
+		"year": 2015,
+		"folderName": "light_touch",
+		"tracks": [
+			{
+				"filename": "light_touch",
+				"title": {
+					"en": "Light Touch",
+					"ru": "Лёгкое Прикосновение"
+				}
+			},
+			{
+				"filename": "lost_space_station",
+				"title": {
+					"en": "Lost Space Station",
+					"ru": "Затерянная Космическая Станция"
+				}
+			},
+			{
+				"filename": "green_planet",
+				"title": {
+					"en": "Green Planet",
+					"ru": "Зелёная Планета"
+				}
+			},
+			{
+				"filename": "a_mysterious_glow",
+				"title": {
+					"en": "A Mysterious Glow",
+					"ru": "Таинственное Свечение"
+				}
+			},
+			{
+				"filename": "wandering_planet",
+				"title": {
+					"en": "Wandering Planet",
+					"ru": "Блуждающая Планета"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Abandoned World",
+			"ru": "Забытый Мир"
+		},
+		"year": 2015,
+		"folderName": "abandoned_world",
+		"tracks": [
+			{
+				"filename": "abandoned_world",
+				"title": {
+					"en": "Abandoned World",
+					"ru": "Забытый мир"
+				}
+			},
+			{
+				"filename": "dust_of_ages",
+				"title": {
+					"en": "Dust Of Ages",
+					"ru": "Пыль Веков"
+				}
+			},
+			{
+				"filename": "the_shadows_of_the_pyramids",
+				"title": {
+					"en": "The Shadows Of The Pyramids",
+					"ru": "Тени Пирамид"
+				}
+			},
+			{
+				"filename": "hieroglyphs",
+				"title": {
+					"en": "Hieroglyphs",
+					"ru": "Иероглифы"
+				}
+			},
+			{
+				"filename": "solitary_wind",
+				"title": {
+					"en": "Solitary Wind",
+					"ru": "Одинокий Ветер"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Outside The Borders",
+			"ru": "Вне Границ"
+		},
+		"year": 2016,
+		"folderName": "outside_the_borders",
+		"tracks": [
+			{
+				"filename": "outside_the_borders",
+				"title": {
+					"en": "Outside The Borders",
+					"ru": "Вне Границ"
+				}
+			},
+			{
+				"filename": "the_ethernal_voice",
+				"title": {
+					"en": "The Ethernal Voice",
+					"ru": "Неземной Голос"
+				}
+			},
+			{
+				"filename": "in_star_ocean",
+				"title": {
+					"en": "In Star Ocean",
+					"ru": "В Океане Звёзд"
+				}
+			},
+			{
+				"filename": "shards_of_ice",
+				"title": {
+					"en": "Shards Of Ice",
+					"ru": "Осколки Льда"
+				}
+			},
+			{
+				"filename": "slow_motion",
+				"title": {
+					"en": "Slow Motion",
+					"ru": "Медленное Движение"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Eye Of The Sahara",
+			"ru": "Око Сахары"
+		},
+		"year": 2016,
+		"folderName": "eye_of_the_sahara",
+		"tracks": [
+			{
+				"filename": "eye_of_the_sahara",
+				"title": {
+					"en": "Eye Of The Sahara",
+					"ru": "Око Сахары"
+				}
+			},
+			{
+				"filename": "impending_storm",
+				"title": {
+					"en": "Impending Storm",
+					"ru": "Надвигающаяся Буря"
+				}
+			},
+			{
+				"filename": "dry_wind",
+				"title": {
+					"en": "Dry Wind",
+					"ru": "Сухой Ветер"
+				}
+			},
+			{
+				"filename": "heat",
+				"title": {
+					"en": "Heat",
+					"ru": "Жара"
+				}
+			},
+			{
+				"filename": "black_rocks",
+				"title": {
+					"en": "Black Rocks",
+					"ru": "Чёрные Скалы"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Music Of The Rain",
+			"ru": "Музыка Дождя"
+		},
+		"year": 2016,
+		"folderName": "music_of_the_rain",
+		"tracks": [
+			{
+				"filename": "music_of_the_rain",
+				"title": {
+					"en": "Music Of The Rain",
+					"ru": "Музыка Дождя"
+				}
+			},
+			{
+				"filename": "mushroom_rain",
+				"title": {
+					"en": "Mushroom Rain",
+					"ru": "Грибной Дождь"
+				}
+			},
+			{
+				"filename": "raindrops_on_glass",
+				"title": {
+					"en": "Raindrops On Glass",
+					"ru": "Капли на Стекле"
+				}
+			},
+			{
+				"filename": "cloudburst",
+				"title": {
+					"en": "Cloudburst",
+					"ru": "Ливень"
+				}
+			},
+			{
+				"filename": "reflection_in_puddles",
+				"title": {
+					"en": "Reflection In Puddles",
+					"ru": "Отражение в Лужах"
+				}
+			},
+			{
+				"filename": "sad_rain",
+				"title": {
+					"en": "Sad Rain",
+					"ru": "Грустный Дождь"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Planet Gloria",
+			"ru": "Планета Глория"
+		},
+		"year": 2016,
+		"folderName": "planet_gloria",
+		"tracks": [
+			{
+				"filename": "planet_gloria",
+				"title": {
+					"en": "Planet Gloria",
+					"ru": "Планета Глория"
+				}
+			},
+			{
+				"filename": "city_of_gods",
+				"title": {
+					"en": "City Of Gods",
+					"ru": "Город Богов"
+				}
+			},
+			{
+				"filename": "convergence",
+				"title": {
+					"en": "Convergence",
+					"ru": "Сближение"
+				}
+			},
+			{
+				"filename": "the_brightness_of_the_firmament",
+				"title": {
+					"en": "The Brightness Of The Firmament",
+					"ru": "Сияние Небосвода"
+				}
+			},
+			{
+				"filename": "at_the_crossroads_of_the_winds",
+				"title": {
+					"en": "At The Crossroads Of The Winds",
+					"ru": "На Перепутье Ветров"
+				}
+			},
+			{
+				"filename": "patches_of_light_on_water",
+				"title": {
+					"en": "Patches Of Light On Water",
+					"ru": "Блики на Воде"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Mission Apollo 20",
+			"ru": "Миссия Аполлон 20"
+		},
+		"year": 2016,
+		"folderName": "mission_apollo_20",
+		"tracks": [
+			{
+				"filename": "mission_apollo_20",
+				"title": {
+					"en": "Mission Apollo 20",
+					"ru": "Миссия Аполлон 20"
+				}
+			},
+			{
+				"filename": "the_other_side_of_the_moon",
+				"title": {
+					"en": "The Other Side Of The Moon",
+					"ru": "Другая Сторона Луны"
+				}
+			},
+			{
+				"filename": "crater_iszak_d",
+				"title": {
+					"en": "Crater Iszak D",
+					"ru": "Кратер Iszak D"
+				}
+			},
+			{
+				"filename": "the_lost_ufo",
+				"title": {
+					"en": "The Lost Ufo",
+					"ru": "Корабль Чужих"
+				}
+			},
+			{
+				"filename": "the_city_of_the_moon",
+				"title": {
+					"en": "The City Of The Moon",
+					"ru": "Лунный Город"
+				}
+			},
+			{
+				"filename": "return_to_earth",
+				"title": {
+					"en": "Return To Earth",
+					"ru": "Возвращение на Землю"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "In The Labyrinth",
+			"ru": "В Лабиринте"
+		},
+		"year": 2017,
+		"folderName": "in_the_labyrinth",
+		"tracks": [
+			{
+				"filename": "in_the_labyrinth",
+				"title": {
+					"en": "In The Labyrinth",
+					"ru": "В Лабиринте"
+				}
+			},
+			{
+				"filename": "omen",
+				"title": {
+					"en": "Omen",
+					"ru": "Знамение"
+				}
+			},
+			{
+				"filename": "little_angel",
+				"title": {
+					"en": "Little Angel",
+					"ru": "Маленький Ангел"
+				}
+			},
+			{
+				"filename": "trapped_in_time",
+				"title": {
+					"en": "Trapped In Time",
+					"ru": "В Плену Времени"
+				}
+			},
+			{
+				"filename": "the_blows_of_fate",
+				"title": {
+					"en": "The Blows Of Fate",
+					"ru": "Удары Судьбы"
+				}
+			},
+			{
+				"filename": "in_motion",
+				"title": {
+					"en": "In Motion",
+					"ru": "В Движении"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Living Universe",
+			"ru": "Живая Вселенная"
+		},
+		"year": 2017,
+		"folderName": "the_living_universe",
+		"tracks": [
+			{
+				"filename": "the_living_universe",
+				"title": {
+					"en": "The Living Universe",
+					"ru": "Живая Вселенная"
+				}
+			},
+			{
+				"filename": "the_pieces_of_the_planets",
+				"title": {
+					"en": "The Pieces Of The Planets",
+					"ru": "Осколки Планеты"
+				}
+			},
+			{
+				"filename": "cosmic_mind",
+				"title": {
+					"en": "Cosmic Mind",
+					"ru": "Космический Разум"
+				}
+			},
+			{
+				"filename": "extraterrestrial",
+				"title": {
+					"en": "Extraterrestrial",
+					"ru": "Внеземной"
+				}
+			},
+			{
+				"filename": "curved_space",
+				"title": {
+					"en": "Curved Space",
+					"ru": "Искривленное Пространство"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Road To The South",
+			"ru": "Дорога на Юг"
+		},
+		"year": 2018,
+		"folderName": "the_road_to_the_south",
+		"tracks": [
+			{
+				"filename": "the_road_to_the_south",
+				"title": {
+					"en": "The Road To The South",
+					"ru": "Дорога на Юг"
+				}
+			},
+			{
+				"filename": "on_the_serpentine",
+				"title": {
+					"en": "On The Serpentine",
+					"ru": "На Серпантине"
+				}
+			},
+			{
+				"filename": "through_fog",
+				"title": {
+					"en": "Through Fog",
+					"ru": "Сквозь Туман"
+				}
+			},
+			{
+				"filename": "scorched_earth",
+				"title": {
+					"en": "Scorched Earth",
+					"ru": "Выжженная Земля"
+				}
+			},
+			{
+				"filename": "evening_by_the_sea",
+				"title": {
+					"en": "Evening By The Sea",
+					"ru": "Вечер у Моря"
+				}
+			},
+			{
+				"filename": "church_by_the_road",
+				"title": {
+					"en": "Church By The Road",
+					"ru": "Церковь у Дороги"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "The Message",
+			"ru": "Послание"
+		},
+		"year": 2019,
+		"folderName": "the_message",
+		"tracks": [
+			{
+				"filename": "message",
+				"title": {
+					"en": "Message",
+					"ru": "Послание"
+				}
+			},
+			{
+				"filename": "moonlit_night",
+				"title": {
+					"en": "Moonlit Night",
+					"ru": "Лунная Ночь"
+				}
+			},
+			{
+				"filename": "luminous_ball",
+				"title": {
+					"en": "Luminous Ball",
+					"ru": "Светящийся шар"
+				}
+			},
+			{
+				"filename": "ufo",
+				"title": {
+					"en": "UFO",
+					"ru": "НЛО"
+				}
+			},
+			{
+				"filename": "сrop_circles",
+				"title": {
+					"en": "Сrop Circles",
+					"ru": "Круги на Полях"
+				}
+			},
+			{
+				"filename": "coming",
+				"title": {
+					"en": "Coming",
+					"ru": "Прибытие"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Incognito",
+			"ru": "Инкогнито"
+		},
+		"year": 2020,
+		"folderName": "incognito",
+		"tracks": [
+			{
+				"filename": "incognito",
+				"title": {
+					"en": "Incognito",
+					"ru": "Инкогнито"
+				}
+			},
+			{
+				"filename": "in_the_rain",
+				"title": {
+					"en": "In The Rain",
+					"ru": "Под Дождём"
+				}
+			},
+			{
+				"filename": "night_road",
+				"title": {
+					"en": "Night Road",
+					"ru": "Ночная Дорога"
+				}
+			},
+			{
+				"filename": "on_an_oncoming_lane",
+				"title": {
+					"en": "On An Oncoming Lane",
+					"ru": "По Встречной Полосе"
+				}
+			},
+			{
+				"filename": "walk_on_a_pavement",
+				"title": {
+					"en": "Walk On A Pavement",
+					"ru": "Прогулка по Мостовой"
+				}
+			},
+			{
+				"filename": "heavy_rain",
+				"title": {
+					"en": "Heavy Rain",
+					"ru": "Ливень"
+				}
+			},
+			{
+				"filename": "thunderstorm_over_the_city",
+				"title": {
+					"en": "Thunderstorm Over The City",
+					"ru": "Гроза над Городом"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Far From Earth",
+			"ru": "Далеко от Земли"
+		},
+		"year": 2020,
+		"folderName": "far_from_earth",
+		"tracks": [
+			{
+				"filename": "far_from_earth",
+				"title": {
+					"en": "Far From Earth",
+					"ru": "Далеко от Земли"
+				}
+			},
+			{
+				"filename": "dark_deep_space",
+				"title": {
+					"en": "Dark, Deep Space",
+					"ru": "Тёмный, Глубокий Космос"
+				}
+			},
+			{
+				"filename": "lifeless_planet",
+				"title": {
+					"en": "Lifeless Planet",
+					"ru": "Безжизненная Планета"
+				}
+			},
+			{
+				"filename": "mysterious_object",
+				"title": {
+					"en": "Mysterious Object",
+					"ru": "Загадочный Объект"
+				}
+			},
+			{
+				"filename": "the_ancient_message",
+				"title": {
+					"en": "The Ancient Message",
+					"ru": "Древнее Сообщение"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Night Voice",
+			"ru": "Голос в Ночи"
+		},
+		"year": 2021,
+		"folderName": "night_voice",
+		"tracks": [
+			{
+				"filename": "the_light_of_legend",
+				"title": {
+					"en": "The Light Of Legend",
+					"ru": "Свет Легенды"
+				}
+			},
+			{
+				"filename": "the_stars_will_tell_you_everything",
+				"title": {
+					"en": "The Stars Will Tell You Everything",
+					"ru": "Звёзды Расскажут Тебе Всё"
+				}
+			},
+			{
+				"filename": "the_sunset_song",
+				"title": {
+					"en": "The Sunset Song",
+					"ru": "Песня на Заходе Солнца"
+				}
+			},
+			{
+				"filename": "the_time_of_secrets",
+				"title": {
+					"en": "The Time Of Secrets",
+					"ru": "Время Секретов"
+				}
+			},
+			{
+				"filename": "the_way_to_nowhere",
+				"title": {
+					"en": "The Way To Nowhere",
+					"ru": "Путь в Никуда"
+				}
+			},
+			{
+				"filename": "your_voice_is_in_my_heart",
+				"title": {
+					"en": "Your Voice Is In My Heart",
+					"ru": "Твой Голос в Моём Сердце"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "Jump",
+			"ru": "Прыжок"
+		},
+		"year": 2021,
+		"folderName": "jump",
+		"tracks": [
+			{
+				"filename": "calling_horizon",
+				"title": {
+					"en": "Calling Horizon",
+					"ru": "Зовущий Горизонт"
+				}
+			},
+			{
+				"filename": "echo_of_dreams",
+				"title": {
+					"en": "Echo Of Dreams",
+					"ru": "Эхо Снов"
+				}
+			},
+			{
+				"filename": "jump",
+				"title": {
+					"en": "Jump",
+					"ru": "Прыжок"
+				}
+			},
+			{
+				"filename": "my_way_to_you",
+				"title": {
+					"en": "My Way To You",
+					"ru": "Мой Путь к Тебе"
+				}
+			},
+			{
+				"filename": "purple_twilight",
+				"title": {
+					"en": "Purple Twilight",
+					"ru": "Фиолетовые Сумерки"
+				}
+			},
+			{
+				"filename": "the_wind_rose",
+				"title": {
+					"en": "The Wind Rose",
+					"ru": "Роза Ветров"
+				}
+			}
+		]
+	},
+	{
+		"title": {
+			"en": "City In The Rain",
+			"ru": "Город под Дождём"
+		},
+		"year": 2021,
+		"folderName": "city_in_the_rain",
+		"tracks": [
+			{
+				"filename": "blues_at_sunset",
+				"title": {
+					"en": "Blues At Sunset",
+					"ru": "Блюз на Закате"
+				}
+			},
+			{
+				"filename": "dazzling_dawn",
+				"title": {
+					"en": "Dazzling Dawn",
+					"ru": "Ослепительный Рассвет"
+				}
+			},
+			{
+				"filename": "flashbacks",
+				"title": {
+					"en": "Flashbacks",
+					"ru": "Воспоминания"
+				}
+			},
+			{
+				"filename": "night_highway",
+				"title": {
+					"en": "Night Highway",
+					"ru": "Ночное Шоссе"
+				}
+			},
+			{
+				"filename": "the_wind_in_your_hair",
+				"title": {
+					"en": "The Wind In Your Hair",
+					"ru": "Ветер в Твоих Волосах"
+				}
+			},
+			{
+				"filename": "urban_mirage",
+				"title": {
+					"en": "Urban Mirage",
+					"ru": "Городской Мираж"
+				}
+			}
+		]
+	}
+]
